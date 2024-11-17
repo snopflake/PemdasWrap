@@ -1,2 +1,2 @@
-# PemdasWrap
-"Praktikum Pemrograman Dasar TI-B"'s Wrap 
+# Pemdas TI-B's Wrap!
+Rekap huru hara Praktikum Pemrograman Dasar TI-B
