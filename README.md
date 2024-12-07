@@ -1,5 +1,5 @@
 # Pemdas TI-B's Wrap!
-Rekap huru hara Praktikum Pemrograman Dasar TI-B
+Rekap huru hara Praktikum Pemrograman Dasar TI-B✨
 
 Langkah Membuka:
 1) Buka file pemdasWrap
