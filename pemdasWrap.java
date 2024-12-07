@@ -126,7 +126,6 @@ class SlideShowFrame extends JFrame {
         navigationPanel.add(prevButton);
         navigationPanel.add(nextButton);
 
-        // Tambahkan panel navigasi ke bawah
         gbc.gridy = 1;
         gbc.weighty = 0.0;
         gbc.anchor = GridBagConstraints.PAGE_END;
