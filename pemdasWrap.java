@@ -54,7 +54,7 @@ class SlideShowFrame extends JFrame {
         "</style>" +
         "<body>" +
         "<div class='title'>%s's Pemdas Wrap</div>" +
-        "<div class='content'>14x Pertemuan</div>" +
+        "<div class='content'>13x Pertemuan</div>" +
         "<div class='content'>2x Live Coding</div>" +
         "<div class='content'>1x Final Assignment</div>" +
         "<div class='content'>1x UTP</div>" +
